@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sojungmel
-- 👀 I’m currently studying Data Scinece at Seoul National University(SNU)
-- 🌱 I’m currently learning recommendation and reinforcement learning
+- 👀 I’m a master's student majoring Data Scinece at Seoul National University(SNU)
+- 🌱 My research interest is domain adaptation of LLMs  
 - 📫 Contact me via email: sojung.kim.stat@gmail.com
 
 <!---
