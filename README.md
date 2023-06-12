@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sojungmel
-- 👀 I’m a data scientist working in Seoul
+- 👀 I’m currently studying Data Scinece at Seoul National University(SNU)
 - 🌱 I’m currently learning recommendation and reinforcement learning
 - 📫 Contact me via email: sojung.kim.stat@gmail.com
 
